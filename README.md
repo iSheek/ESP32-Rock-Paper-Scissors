@@ -8,8 +8,10 @@ A hardware rock-paper-scissors game built with an ESP32 microcontroller, featuri
 * **Hardware Timer:** A 10-second countdown logic utilizing the CD4026 decade counter.
 * **Score Tracking:** Tracks score up to 5 wins and announces the match winner with an LED sequence.
 
-## Schematic / Wiring
+## Schematic / PCB view
 ![Circuit Schematic](schematics/schematic.png)
+![PCB view (front)](schematics/pcb_front.png)
+![PCB view (back)](schematics/pcb_back.png)
 
 ## Hardware Requirements
 * 1x ESP32 Development Board
