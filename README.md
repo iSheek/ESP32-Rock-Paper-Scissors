@@ -1,4 +1,4 @@
-# ESP32 Rock-Paper-Scissors with AI Mode ✊🖐✌️
+# ESP32 Rock-Paper-Scissors with AI Mode
 
 A hardware rock-paper-scissors game built with an ESP32 microcontroller, featuring physical buttons, LED scorekeeping, a hardware 7-segment timer (CD4026), and a Player vs. Computer (AI) mode.
 
