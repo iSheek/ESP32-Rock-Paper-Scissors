@@ -3,8 +3,8 @@
 A hardware rock-paper-scissors game built with an ESP32 microcontroller, featuring physical buttons, LED scorekeeping, a hardware 7-segment timer (CD4026), and a Player vs. Computer (AI) mode.
 
 ## Features
-* **Two Player Mode:** Play against a friend using external external push buttons.
-* **AI Mode:** Play against the ESP32!
+* **Two Player Mode:** Play against a friend using external push buttons.
+* **AI Mode:** Play against the ESP32.
 * **Hardware Timer:** A 10-second countdown logic utilizing the CD4026 decade counter.
 * **Score Tracking:** Tracks score up to 5 wins and announces the match winner with an LED sequence.
 
@@ -43,4 +43,4 @@ A hardware rock-paper-scissors game built with an ESP32 microcontroller, featuri
 1. Power up the ESP32 board.
 2. Press **START** to begin a 10-second round.
 3. Players select their moves before the timer runs out.
-4. The winner of the round gets a point. First to 5 points wins the match!
+4. The winner of the round gets a point. First to 5 points wins the match.
